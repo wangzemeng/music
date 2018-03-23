@@ -22,4 +22,4 @@
         }
     }
     root.audioManager = audioManager;
-}(window.Zaepto,window.player))
+}(window.Zepto,window.player))
